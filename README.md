@@ -18,7 +18,7 @@ El link para revisar esta base de datos se puede encontrar
 ##  📜 Hipótesis a estudiar 📚
 <a href="https://www.gifsanimados.org/cat-detectives-57.htm"><img src="https://www.gifsanimados.org/data/media/57/detective-imagen-animada-0040.gif" border="0" alt="detective-imagen-animada-0040" /></a>
 
-Aquí están las hipótesis a las que trataremos de responder:
+Aquí están las hipótesis a las que trataremos de responder con el análisis exploratorio de los datos:
 
 -Hipotesis 1 : Los ataques de tiburón se dan más durante los meses de verano que en el resto del año.
 
