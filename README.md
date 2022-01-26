@@ -26,3 +26,15 @@ Aquí están las hipótesis a las que trataremos de responder con el análisis e
 
 -Hipótesis 3: En cuanto al sexo, los hombres son más propensos a los ataques de tiburón que las mujeres, debido a los mayores riesgos que asumen.
 
+## Librerías utilizadas 
+
+[python](https://docs.python.org/3/)
+
+[pandas](https://pandas.pydata.org)
+
+[numpy](https://numpy.org/)
+
+[seaborn](https://seaborn.pydata.org/)
+
+[Matplotlib](https://matplotlib.org/)
+
