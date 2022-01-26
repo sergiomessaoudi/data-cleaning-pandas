@@ -10,7 +10,7 @@ El link para revisar esta base de datos se puede encontrar
   [aquí](https://www.kaggle.com/teajay/global-shark-attacks).
 
 ¿Estás interesado en saber todo sobre los ataques de tiburones? ¿Cuántos ataques de tiburón se registran al año? ¿Cómo ha evolucionado esta tasa a lo largo de la historia? 
-¿Dónde es más probable que te ataque un tiburón? Si quieres tratar de dar luz a estas preguntas!
+¿Dónde es más probable que te ataque un tiburón? Si quieres tratar de dar luz a estas preguntas y otras.... no se pierda el desarrollo de esta investigación!
 
 
 
@@ -26,4 +26,3 @@ Aquí están las hipótesis a las que trataremos de responder con el análisis e
 
 -Hipótesis 3: En cuanto al sexo, los hombres son más propensos a los ataques de tiburón que las mujeres, debido a los mayores riesgos que asumen.
 
-Esto es un resumen, para más información ir a [0.](https://github.com/LINK**).
